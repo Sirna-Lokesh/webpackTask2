@@ -9,7 +9,7 @@ function f () {
             <Component1 />
             <Component2 />
             <Component3 />
-        </div>
+         </div>
     )
 }
 export default f;
